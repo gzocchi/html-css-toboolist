@@ -57,11 +57,11 @@ body {
   width: 20px;
   text-align: center;
 }
-.check {
+.green {
   color: #7ad4bf;
   border: 1px solid #7ad4bf;
 }
-.cross {
+.red {
   color: #e97975;
   border: 1px solid #e97975;
 }
