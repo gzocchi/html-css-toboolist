@@ -5,6 +5,7 @@
 }
 body {
   background-color: #f6f8f9;
+  font-family: "Roboto", sans-serif;
 }
 
 .inline_block {
@@ -59,7 +60,7 @@ body {
 .check {
   color: #7ad4bf;
   border: 1px solid #7ad4bf;
- }
+}
 .cross {
   color: #e97975;
   border: 1px solid #e97975;
